@@ -19,8 +19,8 @@ The project involves:
 * Automating infrastructure management
     
 ## Project Diagram : 
+<img width="1020" height="678" alt="image" src="https://github.com/user-attachments/assets/3979b0bf-c834-4a03-9685-4b60014abee2" />
 
-![Project-diagram](images/Project-design.gif)
 
 
 ---
